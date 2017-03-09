@@ -14,7 +14,7 @@ This is a sample Slack bot built with Botkit.
   Read all about it here:
 
     -> http://howdy.ai/botkit
-    Darshan Karki
+    Darshan Karki YO
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 var STUDIO_TOKEN = process.env.BOTKIT_STUDIO_TOKEN
